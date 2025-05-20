@@ -1,0 +1,29 @@
+# Python and Jupyter
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+.env/
+*.env
+*.DS_Store
+
+# Data directories
+/download/
+/cleaned_data/
+/updated_cleaned_data/
+#/data_summary/
+#/visualizations_1/
+#/visualizations_2/
+#/advanced_analysis/
+
+# JSON status/config files
+downloaded_files.json
+bicycle-459616-c7b815deeee9.json
+
+# Jupyter Notebook autosaves
+*.~ipynb
+
+# OS-specific
+Thumbs.db
+.DS_Store

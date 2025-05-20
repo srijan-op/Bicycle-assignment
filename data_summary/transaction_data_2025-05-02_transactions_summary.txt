@@ -1,0 +1,522 @@
+
+ File: D:\Srijan\Project (bade wale)\Bicycle assignment\download\transaction_data_2025-05-02_transactions.csv
+ Total Rows: 1708500
+
+ Column: transaction_id
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 1708500
+
+    Top 10 values by count:
+transaction_id
+bc6168d8-35d4-4479-a513-7424073511dd    1
+827df42a-1631-4739-9490-788aaa9e6996    1
+fa665195-58cf-4abf-a84d-6ac2d4124b50    1
+ee7c50d8-752e-4fd2-958c-3833ea7de47b    1
+6528b180-c836-4407-a193-00d6acc1efd8    1
+777634ca-b4e1-4783-abaf-a76b92d68da9    1
+e1fb8db9-4fd9-42ea-814f-ee0a20021995    1
+112168a2-0ac3-40c2-b971-b7ce34a49453    1
+49ed9b93-6d18-4144-99fc-72f6c85742f3    1
+3164ee69-50ed-413e-a3cf-c3a759c2f073    1
+
+    Bottom 10 values by count:
+transaction_id
+7a85989a-2f5f-4903-b948-6966fef99e7e    1
+62f8e4f3-8cd6-47e1-8ab2-3d8d7e6ed185    1
+181500f0-db19-4405-826a-47950277e833    1
+52df16c4-7e21-4429-a929-9538a19efa88    1
+c3c2ad66-7ac0-4867-84ce-51c2485f0e1b    1
+20c114d7-43ca-45aa-ad08-a4a5f89bd70a    1
+0670d263-1157-4ae9-9419-cd7aa6fa59bc    1
+ed578408-3b56-4d5d-946f-c657ceff2e04    1
+2fecb3ef-79cc-4c94-8e8e-8fe4d136556c    1
+6ba24458-f66d-44ca-ab34-e44652b19d51    1
+
+    Top 10 lexicographically:
+transaction_id
+00000117-23d4-44fa-a460-72c19e8afd74    1
+0000083a-060f-4365-b065-5c1f8d9d5651    1
+000008d8-a42d-41d9-8642-4d34a8dc2fb5    1
+000019a5-0fc8-4a6d-a466-f5e1dc49f0f7    1
+00001c35-f4af-4bf9-84ab-64477d8839ec    1
+00002411-d38d-43d9-abba-be969d8ff439    1
+00002a06-6486-4eca-87e3-879b3e586bc9    1
+00003191-b991-482e-a511-5b7c7eea33e1    1
+000048d8-20a2-4035-a35e-2d4653b1b97e    1
+000052e7-8e29-47c9-8924-6f1c27eeb817    1
+
+    Bottom 10 lexicographically:
+transaction_id
+fffffa23-3c07-4fbc-935d-4e213a1ac429    1
+ffffeda8-890c-4bc8-b844-b3501e7f2636    1
+ffffe5ba-f57e-4836-adb0-c8cb7a696e27    1
+ffffdfc8-ef56-41b1-82a1-27e101bf0ba1    1
+ffffd0f9-e191-4691-8bf6-064a61f9e4cf    1
+ffffcc05-1e56-4a8f-8128-44516c8440ae    1
+ffffc972-8e10-4200-aa72-6527bf3ddd2e    1
+ffffc3a5-cfcb-4dfb-a374-cefcaafb4a72    1
+ffffacd7-517e-417b-9e7b-bd04fddc2a9e    1
+ffff8f49-fc52-4aa6-bf1b-16ffe3a2be5b    1
+
+------------------------------------------------------------
+
+ Column: timestamp
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 86400
+
+    Top 10 values by count:
+timestamp
+2025-05-02 13:45:07    42
+2025-05-02 17:08:23    41
+2025-05-02 09:38:45    40
+2025-05-02 12:37:45    39
+2025-05-02 22:41:59    39
+2025-05-02 22:41:01    39
+2025-05-02 18:25:38    39
+2025-05-02 10:59:46    39
+2025-05-02 01:19:50    38
+2025-05-02 10:33:51    38
+
+    Bottom 10 values by count:
+timestamp
+2025-05-02 09:08:54    6
+2025-05-02 05:25:05    6
+2025-05-02 10:57:17    6
+2025-05-02 23:32:22    6
+2025-05-02 18:58:44    6
+2025-05-02 18:02:20    5
+2025-05-02 23:50:52    5
+2025-05-02 13:32:39    5
+2025-05-02 19:49:42    5
+2025-05-02 03:49:09    4
+
+    Top 10 lexicographically:
+timestamp
+2025-05-02 00:00:00    10
+
+    Bottom 10 lexicographically:
+timestamp
+2025-05-02 23:59:59    10
+
+------------------------------------------------------------
+
+ Column: user_id
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 100000
+
+    Top 10 values by count:
+user_id
+USER00064871    36
+USER00070663    36
+USER00057614    35
+USER00036066    35
+USER00093957    35
+USER00096159    35
+USER00032517    35
+USER00006084    35
+USER00037811    35
+USER00023622    34
+
+    Bottom 10 values by count:
+user_id
+USER00081028    5
+USER00057186    4
+USER00018657    4
+USER00073096    4
+USER00067181    4
+USER00061296    4
+USER00094796    4
+USER00091604    4
+USER00076357    4
+USER00081574    3
+
+    Top 10 lexicographically:
+user_id
+USER00000001    9
+USER00000002    1
+
+    Bottom 10 lexicographically:
+user_id
+USER00100000    10
+
+------------------------------------------------------------
+
+ Column: merchant_id
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 1000
+
+    Top 10 values by count:
+merchant_id
+MERCH000253    1848
+MERCH000239    1831
+MERCH000792    1827
+MERCH000646    1826
+MERCH000775    1818
+MERCH000449    1817
+MERCH000350    1817
+MERCH000469    1811
+MERCH000857    1810
+MERCH000986    1808
+
+    Bottom 10 values by count:
+merchant_id
+MERCH000078    1616
+MERCH000898    1616
+MERCH000840    1616
+MERCH000051    1615
+MERCH000352    1612
+MERCH000627    1611
+MERCH000681    1606
+MERCH000614    1603
+MERCH000089    1603
+MERCH000633    1597
+
+    Top 10 lexicographically:
+merchant_id
+MERCH000000    10
+
+    Bottom 10 lexicographically:
+merchant_id
+MERCH000999    10
+
+------------------------------------------------------------
+
+ Column: merchant_name
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 496
+
+    Top 10 values by count:
+merchant_name
+Super Shop                17112
+Learn School              16908
+Exciting Park             16794
+Quality Solutions         16754
+Voyager Expeditions       13724
+Delicious Cafe            13683
+City Store                13597
+Digital Devices           13574
+Innovative Electronics    13557
+Wealth Bank               13520
+
+    Bottom 10 values by count:
+merchant_name
+Resource Services      18
+Trusted Solutions      17
+Innovative Systems     16
+Pro Assistance         16
+Quality Aid            16
+Scholar School         13
+Power Provision        13
+Reliable Help          13
+Tasty Kitchen          13
+Wealth Invest          12
+
+    Top 10 lexicographically:
+merchant_name
+Academic Academy    10
+
+    Bottom 10 lexicographically:
+merchant_name
+Wellness Services     10
+
+------------------------------------------------------------
+
+ Column: merchant_category
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 10
+
+    Top 10 values by count:
+merchant_category
+Entertainment    185407
+Travel           182354
+Education        172480
+Food & Dining    169433
+Healthcare       166846
+Retail           166075
+Financial        165843
+Technology       162827
+Utilities        153003
+Services         150181
+
+    Bottom 10 values by count:
+merchant_category
+Entertainment    185407
+Travel           182354
+Education        172480
+Food & Dining    169433
+Healthcare       166846
+Retail           166075
+Financial        165843
+Technology       162827
+Utilities        153003
+Services         150181
+
+    Top 10 lexicographically:
+merchant_category
+Education    10
+
+    Bottom 10 lexicographically:
+merchant_category
+Utilities    10
+
+------------------------------------------------------------
+
+ Column: amount
+   ▪ Data Type: float64
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 62722
+
+    Top 10 values by count:
+amount
+8.87    407
+9.02    405
+8.66    399
+8.79    397
+9.26    396
+8.34    394
+6.81    393
+7.94    392
+7.73    392
+7.19    392
+
+    Bottom 10 values by count:
+amount
+396.79     1
+584.76     1
+485.23     1
+1975.16    1
+784.13     1
+971.94     1
+472.50     1
+568.81     1
+912.82     1
+558.04     1
+
+    Top 10 lexicographically:
+amount
+0.13    2
+0.15    2
+0.14    2
+0.1     1
+0.05    1
+0.16    1
+0.17    1
+
+    Bottom 10 lexicographically:
+amount
+999.99    1
+999.98    1
+999.76    1
+999.66    1
+999.64    1
+999.58    1
+999.51    1
+999.09    1
+999.06    1
+999.04    1
+
+------------------------------------------------------------
+
+ Column: currency
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 6
+
+    Top 10 values by count:
+currency
+USD    285532
+EUR    284920
+JPY    284739
+CAD    284732
+GBP    284352
+AUD    284225
+
+    Bottom 10 values by count:
+currency
+USD    285532
+EUR    284920
+JPY    284739
+CAD    284732
+GBP    284352
+AUD    284225
+
+    Top 10 lexicographically:
+currency
+AUD    10
+
+    Bottom 10 lexicographically:
+currency
+USD    10
+
+------------------------------------------------------------
+
+ Column: location_country
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 20
+
+    Top 10 values by count:
+location_country
+France       169794
+UK           169638
+Japan        169235
+India        169187
+Brazil       169128
+Germany      169090
+Mexico       169001
+USA          168960
+Canada       168944
+Australia    168371
+
+    Bottom 10 values by count:
+location_country
+mexico       1792
+india        1766
+france       1746
+australia    1737
+germany      1714
+japan        1713
+uk           1694
+usa          1670
+canada       1664
+brazil       1656
+
+    Top 10 lexicographically:
+location_country
+Australia    10
+
+    Bottom 10 lexicographically:
+location_country
+usa    10
+
+------------------------------------------------------------
+
+ Column: location_city
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 50
+
+    Top 10 values by count:
+location_city
+Glasgow      33956
+Calgary      33812
+Toulouse     33781
+Nagoya       33764
+Tokyo        33712
+Lyon         33677
+Chicago      33655
+Hyderabad    33621
+Bangalore    33609
+Fortaleza    33606
+
+    Bottom 10 values by count:
+location_city
+Ottawa       33304
+Cologne      33298
+New York     33273
+Melbourne    33269
+Brisbane     33247
+Delhi        33242
+Puebla       33235
+Adelaide     33235
+Kyoto        33197
+Vancouver    33151
+
+    Top 10 lexicographically:
+location_city
+Adelaide    10
+
+    Bottom 10 lexicographically:
+location_city
+Yokohama    10
+
+------------------------------------------------------------
+
+ Column: is_online
+   ▪ Data Type: bool
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 2
+
+    Top 10 values by count:
+is_online
+False    1024150
+True      684350
+
+    Bottom 10 values by count:
+is_online
+False    1024150
+True      684350
+
+    Top 10 lexicographically:
+is_online
+False    10
+
+    Bottom 10 lexicographically:
+is_online
+True    10
+
+------------------------------------------------------------
+
+ Column: device_type
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 3
+
+    Top 10 values by count:
+device_type
+Mobile     223923
+Desktop    223549
+Tablet     223261
+
+    Bottom 10 values by count:
+device_type
+Mobile     223923
+Desktop    223549
+Tablet     223261
+
+    Top 10 lexicographically:
+device_type
+Desktop    10
+
+    Bottom 10 lexicographically:
+device_type
+Tablet    10
+
+------------------------------------------------------------
+
+ Column: status
+   ▪ Data Type: object
+   ▪ Total Values: 1708500
+   ▪ Distinct Values: 5
+
+    Top 10 values by count:
+status
+completed    1538037
+pending        85283
+failed         50954
+refunded       17217
+disputed       17009
+
+    Bottom 10 values by count:
+status
+completed    1538037
+pending        85283
+failed         50954
+refunded       17217
+disputed       17009
+
+    Top 10 lexicographically:
+status
+completed    10
+
+    Bottom 10 lexicographically:
+status
+refunded    10
+
+------------------------------------------------------------

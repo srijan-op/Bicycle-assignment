@@ -38,7 +38,8 @@ pip install -r requirements.txt
 ```
 
 ## 📁 Data Configuration
-Create the data folders and add their paths in the scripts accordingly 
+Create the data folders and add their paths in the scripts accordingly.
+Google drive link of raw and cleaned data that I used : https://drive.google.com/file/d/1MpbBGW8KHaQmIbgP9yHB3BLaft7vm_9P/view?usp=sharing
 
 
 ## ▶️ Running the Analysis

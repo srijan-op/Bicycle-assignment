@@ -38,9 +38,8 @@ pip install -r requirements.txt
 ```
 
 ## 📁 Data Configuration
-Place your data files in the `data/` directory.
+Create the data folders and add their paths in the scripts accordingly 
 
-Update the configuration in `config.yaml` if necessary to match your data paths.
 
 ## ▶️ Running the Analysis
 
